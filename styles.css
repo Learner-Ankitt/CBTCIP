@@ -1,0 +1,64 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.container1{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/images/WhatsApp\ Image\ 2024-04-23\ at\ 14.32.50_98c77124.jpg);
+    background-size: cover;
+    
+       }
+
+.container2{
+    width: 360px;
+    height: 559px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-image: url(/images/WhatsApp\ Image\ 2024-04-23\ at\ 14.32.49_6681b7d5.jpg);
+    background-size: cover;
+
+}
+.centered-text{
+    text-align: center;
+    position: relative;
+}
+
+.search-box{
+    
+    width: 75%;
+    height: 20%;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+.search-button{
+    width: 55px;
+    height: 28px;
+    border: none;
+    background-color: #60a0e4;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    top: 0;
+    right: 0;
+}
+
+.weather-info img{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+.weather-info-text{
+    font-size: 30px;
+
+}
+ 
