@@ -8,8 +8,8 @@ html,body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/WhatsApp\ Image\ 2024-04-23\ at\ 14.32.50_98c77124.jpg);
-    background-size: cover;
+    background-image: url(/CBTCIP/images/bgimg.jpg);
+    background-size  : cover;
     
        }
 
@@ -22,7 +22,7 @@ html,body {
     align-items: flex-start;
     border: 2px solid black;
     border-radius: 20px;
-    background-image: url(/images/WhatsApp\ Image\ 2024-04-23\ at\ 14.32.49_6681b7d5.jpg);
+    background-image: url(/CBTCIP/images/bgimg2.jpg);
     background-size: cover;
 
 }
